@@ -6,4 +6,4 @@
 
 - I dislike a making profile pages. 👎
 
-!(Date Mike)[https://media1.tenor.com/images/0c57b4a452254a7465764465e221614c/tenor.gif?itemid=18313665]
+!(Date Mike)[https://i.imgur.com/h8jwNgB.gif]
