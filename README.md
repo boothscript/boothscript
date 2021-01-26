@@ -20,15 +20,9 @@
 
 ![Trump, West or Swift](images/trump-west-swift.png)
 
-[Personal Dev Blog](images/blog.png)
-
-[Trump, West or Swift?](https://boothscript.github.io/west-trump-swift)
-
-![Trump, West or Swift](images/trump-west-swift.png)
-
 [Portfolio Mockup](https://boothscript.github.io/portfolio2)
 
-![Personal Dev Blog](images/portfolio.png)
+![Portfolio](images/porfolio.png)
 
 ### In The Works
 
