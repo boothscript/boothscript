@@ -22,7 +22,7 @@
 
 [Portfolio Mockup](https://boothscript.github.io/portfolio2)
 
-![Portfolio](images/porfolio.png)
+![Portfolio](images/porftolio.png)
 
 ### In The Works
 
