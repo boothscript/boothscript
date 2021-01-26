@@ -14,7 +14,8 @@
 
 [stephenbooth.dev](https://www.stephenbooth.dev)
 
-![Personal Dev Blog](images/blog.png =200x)
+
+<img src="images/blog.png" alt="Personal Dev Blog" width="200px">
 
 [Trump, West or Swift?](https://boothscript.github.io/west-trump-swift)
 
