@@ -12,18 +12,18 @@
 
 ### Deployed Projects
 
-[stephenbooth.dev](https://www.stephenbooth.dev)
+#### [stephenbooth.dev](https://www.stephenbooth.dev)
 
-
-<img src="images/blog.png" alt="Personal Dev Blog" width="200px">
+<img src="images/blog.png" alt="Personal Dev Blog" width="400px">
 
 [Trump, West or Swift?](https://boothscript.github.io/west-trump-swift)
 
-![Trump, West or Swift](images/trump-west-swift.png)
+<img src="images/trump-west-swift.png" alt="Trump, Swift, West" width="400px">
 
 [Portfolio Mockup](https://boothscript.github.io/portfolio2)
 
-![Portfolio](images/portfolio.png)
+
+<img src="images/portfolio.png" alt="Portfolio" width="400px">
 
 ### In The Works
 
