@@ -9,3 +9,21 @@
 - I am an ex touring musician. I swapped festivals and clubs for problem solving and debugging. 🙌
 - I like sentences ending with emojis. 🤷‍♂️
 - I dislike a making profile pages. 👎
+
+### Deployed Projects
+
+[stephenbooth.dev](https://www.stephenbooth.dev)
+![Personal Dev Blog]('./images/blog.png')
+[Trump, West or Swift?](https://boothscript.github.io/west-trump-swift)
+![Trump, West or Swift]('./images/trump-west-swift.png')
+[Portfolio Mockup](https://boothscript.github.io/portfolio2)
+![Personal Dev Blog]('./images/portfolio.png')
+
+### In The Works
+
+- PROJECT DASHROO
+
+  - A personal modular productivity dashboard and Journal
+
+- Rooter
+  - Automatic routing CMS for charity collection tins.
