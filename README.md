@@ -14,21 +14,21 @@
 
 [stephenbooth.dev](https://www.stephenbooth.dev)
 
-![Personal Dev Blog]('./images/blog.png')
+![Personal Dev Blog](images/blog.png)
 
 [Trump, West or Swift?](https://boothscript.github.io/west-trump-swift)
 
-![Trump, West or Swift]('./images/trump-west-swift.png')
+![Trump, West or Swift](images/trump-west-swift.png)
 
-[Personal Dev Blog]('htps://github.com/boothscript/boothscript/images/blog.png')
+[Personal Dev Blog](images/blog.png)
 
 [Trump, West or Swift?](https://boothscript.github.io/west-trump-swift)
 
-![Trump, West or Swift]('htps://github.com/boothscript/boothscript/images/trump-west-swift.png')
+![Trump, West or Swift](images/trump-west-swift.png)
 
 [Portfolio Mockup](https://boothscript.github.io/portfolio2)
 
-![Personal Dev Blog]('htps://github.com/boothscript/boothscript/images/portfolio.png')
+![Personal Dev Blog](images/portfolio.png)
 
 ### In The Works
 
